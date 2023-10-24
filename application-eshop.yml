@@ -1,0 +1,32 @@
+property:
+  - eshop:
+      name: Evrika
+      url: https://evrika.com
+      goods_tag: .goods-title
+      price_tag: .cost__value
+  - eshop:
+      name: Alser
+      url: https://alser.kz
+      goods_tag: .detail-info__name
+      price_tag: .price
+  - eshop:
+      name: Mechta
+      url: https://www.mechta.kz
+      goods_tag: .text-ts5
+      price_tag: .text-bold.text-ts5.text-color1
+  - eshop:
+      name: DNS
+      url: https://www.dns-shop.kz
+      goods_tag: .product-card-top__title
+      price_tag: .product-buy__price
+  - eshop:
+      name: Белый Ветер
+      url: https://shop.kz
+      goods_tag: .bx-title.dbg_title
+      price_tag: .item_current_price
+  - eshop:
+      name: Technodom
+      url: https://www.technodom.kz
+      goods_tag: .Typography.Typography__XL.Typography__XL_Bold
+      price_tag: .Typography.--accented.Typography__Heading.Typography__Heading_H1
+      
