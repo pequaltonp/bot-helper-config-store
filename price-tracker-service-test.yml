@@ -14,3 +14,10 @@ spring:
   sleuth:
     sampler:
       probability: 1.0
+
+parsing:
+  count: 10
+  time:
+    interval: 3
+    unit: H
+    
