@@ -17,7 +17,4 @@ spring:
 
 parsing:
   limit: 10
-  time:
-    interval: 3
-    unit: H
-    
+  intervalHour: 3    
