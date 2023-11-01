@@ -16,7 +16,7 @@ spring:
       probability: 1.0
 
 parsing:
-  count: 10
+  limit: 10
   time:
     interval: 3
     unit: H
