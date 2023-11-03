@@ -17,4 +17,4 @@ spring:
 
 parsing:
   limit: 10
-  intervalHour: 3    
+  durationInHour: 3    
