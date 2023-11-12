@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/eshop_price_tracker_db
+    url: jdbc:postgresql://localhost:5432/fake_service_db
     username: postgres
     password: biba0218
   jpa:
