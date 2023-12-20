@@ -6,3 +6,4 @@ spring:
           order: 0
           instances:
             price-parsing-service: http://localhost:9090
+            tg-bot-service: http://localhost:9091
