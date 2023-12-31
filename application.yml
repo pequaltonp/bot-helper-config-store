@@ -3,7 +3,6 @@ spring:
     discovery:
       client:
         simple:
-          order: 0
           instances:
             price-parsing-service:
             - uri: http://localhost:9090
