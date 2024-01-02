@@ -7,7 +7,7 @@ spring:
       client:
         simple:
           instances:
-            price-parsing-service:
-             - uri: http://localhost:9090
-            tg-bot-service:
-             - uri: http://localhost:9091
+            price-parsing-service[0]:
+             uri: http://localhost:9090
+            tg-bot-service[0]:
+             uri: http://localhost:9091
