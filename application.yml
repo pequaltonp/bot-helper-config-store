@@ -15,5 +15,5 @@ spring:
              - uri: http://localhost:9092
             temp-mail-service:
              - uri: http://localhost:9093
-            weather-parser-service:
+            environment-parser-service:
              - uri: http://localhost:9094
