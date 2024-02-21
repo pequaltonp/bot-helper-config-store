@@ -1,3 +1,4 @@
 mail-server:
   ip:
+  name:
   port: 6040
