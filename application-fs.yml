@@ -1,2 +1,4 @@
 file:
+  server:
+    ip:
   root: /hash/user
