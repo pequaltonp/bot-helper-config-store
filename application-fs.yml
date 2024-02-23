@@ -1,4 +1,5 @@
 file:
   server:
     ip:
+    port:
   root: /hash/user
