@@ -2,6 +2,6 @@ file:
   server:
     ip:
     port:
-  login:
+  login: store
   password: 
   root: /hash/user
