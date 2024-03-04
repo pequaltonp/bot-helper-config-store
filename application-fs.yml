@@ -4,4 +4,4 @@ file:
     port:
   login: store
   password: YkIqOW3W3NO
-  root: /hash/user
+  root: /user/hash
