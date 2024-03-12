@@ -2,4 +2,4 @@ mail-server:
   ip:
   host:
   port: 6040
-  dns-name: tmp
+  dns-name: temp
