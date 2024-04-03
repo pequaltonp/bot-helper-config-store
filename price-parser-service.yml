@@ -5,4 +5,4 @@ spring:
 
 parsing:
   limit: 15
-  durationInHour: 3h
+  durationInHour: 2h
