@@ -4,5 +4,5 @@ spring:
       probability: 1.0
 
 parsing:
-  limit: 10
+  limit: 15
   durationInHour: 3h
